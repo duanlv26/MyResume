@@ -1,0 +1,54 @@
+body{
+    font-family: STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑";
+}
+#resumeBar {
+    float: left;
+    display: block;
+    width: 900px;
+    overflow: hidden;
+}
+#resumeBar h1 {
+    display: block; 
+    font-size: 50px;
+    color: #fff;
+    background: #000;
+    text-align: center;
+    padding-top: 30px;
+    width: 200px;
+    height: 500px;
+}
+#resumeBar .information{
+
+}
+#resumeBar h2 {
+    font-size :22px;
+    border: 1px solid #000;
+    text-indent: 20px;
+    margin-left: 1px; 
+    color: #fff;
+    background: #000;
+}
+#resumeBar p {
+    display: inline;
+    font-size :18px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.list{
+    text-indent: 30px;
+}
+#resumeBar .information span {
+    display: inline;
+    font-size :16px;
+}
+#resumeBar .experience {
+    width: 600px;
+}
+#resumeBar .experience ul li span{
+    display: block;
+    font-size: 16px;
+    text-indent: 80px;
+}
+.flLeft{
+    float: left;
+}
