@@ -1,3 +1,3 @@
-# 百度前端学院学习;
+# 百度前端学院作业;
 
-## [查看简历](https://duanlv26.github.io/MyResume/)
+## [第五天和第六天 三种简历](https://duanlv26.github.io/MyResume/)
